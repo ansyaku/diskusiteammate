@@ -44,10 +44,12 @@ Yang bisa menindaklanjuti respons adalah owner saja. Final approver dan approver
 
 __Response Tracking :__
 Meminta tanggapan auditi atas temuan dan rekomendasi
+
 **Pending :**
-1. Bagaimana tatakelola untuk response tracking apakah harus di reviu terlebih dahulu ?
-2. Siapakah yang perlu mengubah status management response - tracking - pending
-Bisa response tracking tanpa kontak (risiko- auditor anggap udh response tp gak  masuk-masuk ke auditi karena memang gak ada auditinya)!
+1. Bagaimana tatakelola untuk response tracking apakah harus di reviu terlebih dahulu ?<br>
+2. Siapakah yang perlu mengubah status management response - tracking - pending <br>
+Bisa response tracking tanpa kontak (risiko- auditor anggap udh response tp gak  masuk-masuk ke auditi karena memang gak ada auditinya)! <br>
+Response tracking harus diganti terlebih dahulu menjadi dalam pengerjaan, agar bisa dirilis.
 
 __Issue Tracking :__
 1. 
