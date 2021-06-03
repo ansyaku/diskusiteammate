@@ -26,3 +26,8 @@ __Password : Kemenkeu!3 kalau ga bisa Kemenkeu!2__
 Cadangan :<br>
 ass.technique1		manager<br>
 superviseur1		manager<br>
+
+
+Ketua tim dalam hal ini sebagai manager reviewer tidak dapat melakukan update profil & schedule.<br>
+Owner -> Dalam pengerjaan, Selesai, Reviu - Telah diterima, Reviu - Telah diterima <br>
+Ketua Tim -> Reviu - Telah diterima, Reviu - Telah diterima <br>
