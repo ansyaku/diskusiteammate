@@ -1,4 +1,4 @@
-Pertanyaan-Pertanyaan penting :
+TO DISCUSS :
 ***
 
 1. Bagaimana jika dalnis diberikan role manager reviewer sementara dalnis tetap menjadi project owner? <br>
@@ -16,7 +16,7 @@ Yang bisa approve atau reject tindak lanjut adalah yang berperan sebagai manager
 
 6. Issue kapan diselesaikan ? Belum ada ketentuan.
 
-**Daftar User :**
+**DAFTAR USER :**
 ***
 
 **Auditor**
