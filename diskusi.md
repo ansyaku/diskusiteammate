@@ -1,4 +1,4 @@
-Pertanyaan-pertanyaan penting :
+Pertanyaan-Pertanyaan penting :
 ***
 
 1. Bagaimana jika dalnis diberikan role manager reviewer sementara dalnis tetap menjadi project owner? <br>
@@ -11,27 +11,27 @@ b. terima saja yang penting ada history?<br>
 
 4. Kenapa assignment di issue langsung ke reviewer, manager, dan klien pengawasan? Tidak ada pilihan untuk project owner, manager reviewer, dan anggota tim?
 
-
 5. Proses reviu tindak lanjut yang dilakukan oleh auditor :
 Yang bisa approve atau reject tindak lanjut adalah yang berperan sebagai manager pada project teammate+.
 
+**Daftar User :**
+***
+
+**Auditor**
 ass.technique2 -> owner (Pengendali Teknis)<br> 
 ass.qualite		-> manager reviewer (Pengendali Mutu)<br> 
 superviseur2	-> manager reviewer (Ketua Tim)<br> 
 membre1 ->tester<br> Anggota Tim <br> 
 membre2	->tester<br> Anggota Tim <br> 
 
-__Password : Kemenkeu!3 kalau ga bisa Kemenkeu!2__
-
-Cadangan :<br>
-ass.technique1		manager<br>
-superviseur1		manager<br>
-
 **Klien Pengawasan :<br>**
 utilisatrice (owner) <br>
 directrice (final approver) <br>
 observateur (observer) <br>
 
+Cadangan :<br>
+ass.technique1		manager<br>
+superviseur1		manager<br>
 
 Ketua tim dalam hal ini sebagai manager reviewer tidak dapat melakukan update profil & schedule.<br>
 Schedule state: <br>
@@ -53,5 +53,7 @@ Response tracking harus diganti terlebih dahulu menjadi dalam pengerjaan/_manage
 
 __Issue Tracking :__
 1. Semua bisa issue tracking, tp kemarin yg disepakati Ketua Tim (minimal). 
-2. 
-3. 
+2. Di owner diganti menjadi **TERIMPLEMENTASI**.
+3. Ketika auditi sudah melakukan implementasi, auditi bisa kemblai mengedit sebelum diapprove atasan. 
+4. Penuntasan bisa dilakukan dalnis atau daltu
+5. Belum dimulai bisa dirilis
