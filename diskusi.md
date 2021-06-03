@@ -49,9 +49,9 @@ Meminta tanggapan auditi atas temuan dan rekomendasi
 1. Bagaimana tatakelola untuk response tracking apakah harus di reviu terlebih dahulu ?<br>
 2. Siapakah yang perlu mengubah status management response - tracking - pending <br>
 Bisa response tracking tanpa kontak (risiko- auditor anggap udh response tp gak  masuk-masuk ke auditi karena memang gak ada auditinya)! <br>
-Response tracking harus diganti terlebih dahulu menjadi dalam pengerjaan, agar bisa dirilis.
+Response tracking harus diganti terlebih dahulu menjadi dalam pengerjaan/_management response tracking-accepted_, agar bisa dirilis.
 
 __Issue Tracking :__
-1. 
+1. Semua bisa issue tracking, tp kemarin yg disepakati Ketua Tim (minimal). 
 2. 
 3. 
