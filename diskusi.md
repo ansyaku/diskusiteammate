@@ -1,4 +1,4 @@
-TO DISCUSS :
+**TO DISCUSS :**
 ***
 
 1. Bagaimana jika dalnis diberikan role manager reviewer sementara dalnis tetap menjadi project owner? <br>
