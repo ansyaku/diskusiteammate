@@ -15,13 +15,13 @@ b. terima saja yang penting ada history?<br>
 5. Proses reviu tindak lanjut yang dilakukan oleh auditor :
 Yang bisa approve atau reject tindak lanjut adalah yang berperan sebagai manager pada project teammate+.
 
-ass.qualite		->manager reviewer<br> (Pengendali Mutu)
 ass.technique2 ->owner<br> (Pengendali Teknis)
+ass.qualite		->manager reviewer<br> (Pengendali Mutu)
 superviseur2	->manager reviewer<br> (Ketua Tim)
 membre1 ->tester<br> Anggota Tim
 membre2	->tester<br> Anggota Tim
 
-Password : Kemenkeu!3 kalau ga bisa Kemenkeu!2
+__Password : Kemenkeu!3 kalau ga bisa Kemenkeu!2__
 
 Cadangan :<br>
 ass.technique1		manager<br>
