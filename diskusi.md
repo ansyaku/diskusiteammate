@@ -44,6 +44,9 @@ Ketua Tim -> Reviu - Telah diterima, Reviu - Telah diterima <br>
 Ketika kertas kerja sudah diubah statusnya menjadi selesai, maka ketua tim tidak dapat mengubah lagi prosedur, kecuali bila diubah state ke dalam pengerjaan.
 Yang bisa menindaklanjuti respons adalah owner saja. Final approver dan approver tidak bisa.
 
+**RESPONSE TRACKING**
+***
+
 **Response Tracking :**<br>
 Meminta tanggapan auditi atas temuan dan rekomendasi
 
