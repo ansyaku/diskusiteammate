@@ -1,3 +1,8 @@
+__Rapat Integrasi Pemahaman Teammate+__
+Tanggal: 03 Juni 2021
+Hadir : Achad, Andre, Gyshel, Imam, Yaman, 
+***
+
 **TO DISCUSS :**
 ***
 
