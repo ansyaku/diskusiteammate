@@ -31,3 +31,6 @@ superviseur1		manager<br>
 Ketua tim dalam hal ini sebagai manager reviewer tidak dapat melakukan update profil & schedule.<br>
 Owner -> Dalam pengerjaan, Selesai, Reviu - Telah diterima, Reviu - Telah diterima <br>
 Ketua Tim -> Reviu - Telah diterima, Reviu - Telah diterima <br>
+
+__Kontrol 1:__
+Ketika kertas kerja sudah diubah statusnya menjadi selesai, maka ketua tim tidak dapat mengubah lagi prosedur, kecuali bila diubah state ke dalam pengerjaan.
