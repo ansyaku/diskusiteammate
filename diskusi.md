@@ -44,5 +44,8 @@ Ketika kertas kerja sudah diubah statusnya menjadi selesai, maka ketua tim tidak
 
 __Response Tracking :__
 Meminta tanggapan auditi atas temuan dan rekomendasi
+**Pending :**
+1. Bagaimana tatakelola untuk response tracking apakah harus di reviu terlebih dahulu ?
+2. Siapakah yang perlu mengubah status management response - tracking - pending
 
 __Issue Tracking :__
