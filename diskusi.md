@@ -27,7 +27,7 @@ Cadangan :<br>
 ass.technique1		manager<br>
 superviseur1		manager<br>
 
-Klien Pengawasan :
+**Klien Pengawasan :<br>**
 utilisatrice (owner) <br>
 directrice (final approver) <br>
 observateur (observer) <br>
