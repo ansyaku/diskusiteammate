@@ -27,6 +27,11 @@ Cadangan :<br>
 ass.technique1		manager<br>
 superviseur1		manager<br>
 
+Klien Pengawasan :
+utilisatrice (owner) <br>
+directrice (final approver) <br>
+observateur (observer) <br>
+
 
 Ketua tim dalam hal ini sebagai manager reviewer tidak dapat melakukan update profil & schedule.<br>
 Schedule state: <br>
