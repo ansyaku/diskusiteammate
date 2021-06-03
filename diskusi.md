@@ -14,6 +14,8 @@ b. terima saja yang penting ada history?<br>
 5. Proses reviu tindak lanjut yang dilakukan oleh auditor :
 Yang bisa approve atau reject tindak lanjut adalah yang berperan sebagai manager pada project teammate+.
 
+6. Issue kapan diselesaikan ? Belum ada ketentuan.
+
 **Daftar User :**
 ***
 
