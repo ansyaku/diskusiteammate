@@ -40,20 +40,20 @@ Schedule state: <br>
 Owner -> Dalam pengerjaan, Selesai, Reviu - Telah diterima, Reviu - Telah diterima <br>
 Ketua Tim -> Reviu - Telah diterima, Reviu - Telah diterima <br>
 
-**Kontrol 1:**
+**Kontrol 1:**<br>
 Ketika kertas kerja sudah diubah statusnya menjadi selesai, maka ketua tim tidak dapat mengubah lagi prosedur, kecuali bila diubah state ke dalam pengerjaan.
 Yang bisa menindaklanjuti respons adalah owner saja. Final approver dan approver tidak bisa.
 
-**Response Tracking :**
+**Response Tracking :**<br>
 Meminta tanggapan auditi atas temuan dan rekomendasi
 
-**Pending :**
+**Pending :**<br>
 1. Bagaimana tatakelola untuk response tracking apakah harus di reviu terlebih dahulu ?<br>
 2. Siapakah yang perlu mengubah status management response - tracking - pending <br>
 Bisa response tracking tanpa kontak (risiko- auditor anggap udh response tp gak  masuk-masuk ke auditi karena memang gak ada auditinya)! <br>
 Response tracking harus diganti terlebih dahulu menjadi dalam pengerjaan/_management response tracking-accepted_, agar bisa dirilis.
 
-__Issue Tracking :__
+__Issue Tracking :__<br>
 1. Semua bisa issue tracking, tp kemarin yg disepakati Ketua Tim (minimal). 
 2. Di owner diganti menjadi **TERIMPLEMENTASI**.
 3. Ketika auditi sudah melakukan implementasi, auditi bisa kemblai mengedit sebelum diapprove atasan. 
