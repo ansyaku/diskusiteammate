@@ -29,6 +29,7 @@ superviseur1		manager<br>
 
 
 Ketua tim dalam hal ini sebagai manager reviewer tidak dapat melakukan update profil & schedule.<br>
+Schedule state: <br>
 Owner -> Dalam pengerjaan, Selesai, Reviu - Telah diterima, Reviu - Telah diterima <br>
 Ketua Tim -> Reviu - Telah diterima, Reviu - Telah diterima <br>
 
