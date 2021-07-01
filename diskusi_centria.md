@@ -12,3 +12,4 @@ Kamis, 01 Juli 2027
 ## Teknis Migrasi
 * Audit plan tidak bisa dilakukan migrasi secara sekaligus, harus difilter dengan kriteria tertentu.
 * Teammate+ akan freeze walaupun teammate AM masih bisa digunakan
+* Harus diupgrade ke 11.2
